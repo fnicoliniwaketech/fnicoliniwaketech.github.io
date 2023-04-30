@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Recipes</title>
+<style>
+p {
+    font-style: italic;
+    font-weight: 200;
+    color: #7abd78;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-style: italic;
+    font-weight: 500;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+@media (min-width:450px){
+.img_float {
+    border: medium solid #1B6B2A;
+    float: none;
+}
+}
+body {
+    background-color: #b0d7b7;
+    background-image: url(Background.jpg);
+    background-repeat: repeat;
+}
+a {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 18px;
+    color: #030303;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: #989fda;
+}
+a:hover {
+    text-decoration: underline;
+    color: #e8666e;
+}
+a:active {
+    text-decoration: none;
+    color: #6972b5;
+}
+h1 {
+    font-size: xx-large;
+}
+body,td,th {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+    color: #000000;
+}
+</style>
+</head>
+<body tracingsrc="assets/rm422-047.jpg" tracingopacity="50">
+       <blockquote>
+         <blockquote>
+           <blockquote>
+             <blockquote>
+               <blockquote>
+                 <blockquote>
+                   <blockquote>
+                     <blockquote>
+                       <blockquote>
+                         <blockquote>
+                           <h3><span class="Recipes"><a href="Recipes.html">Recipes</a></span> - <a href="Exercise.html">Exercise</a> - <a href="Contact Us.html">Contact Us</a> - <a href="index.html">Home</a></h3>
+                         </blockquote>
+                       </blockquote>
+                     </blockquote>
+                   </blockquote>
+                 </blockquote>
+               </blockquote>
+             </blockquote>
+           </blockquote>
+         </blockquote>
+       </blockquote>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <blockquote>
+                <h1>Recipes</h1>
+              </blockquote>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+<blockquote>
+  <blockquote>
+    <p>&nbsp;</p>
+    <h2><a href="Recipes.html">This week's Most Popular Recipes</a></h2>    
+  <a href="Recipes.html">
+    <h2>&nbsp;</h2>
+    </a>
+    <h2><a href="Avocado Toast.html">Avocado Toast</a></h2>
+    <a href="assets/pexels-foodie-factor-566566.jpg"><img src="assets/Avocado.jpg" alt="" width="400" height="266" class="img_float"></a>
+    <h2><a href="Vegan Chilli Bowl.html">Vegan Chilli Bowl</a></h2>
+    <a href="assets/pexels-alesia-kozik-6546549.jpg"><img src="assets/Bowl.jpg" alt="" width="397" height="499" class="img_float"></a>
+    <h1 title="Delicious Looking Pancakes with Berries ">Pancakes with Berries</h1>
+    <p><br>
+    <a href="assets/pexels-alesia-kozik-7071217.jpg"><img src="assets/Pancake.jpg" alt="" width="300" height="450" class="img_float"></a></p>
+    <h1 title="Vegan Falafel Burger on Wooden Plate"><a href="VeganFalagelBurger.html">Vegan Falafel Burger </a></h1>
+    <p><a href="assets/pexels-alesia-kozik-6546024.jpg"><img src="assets/Burger.jpg" alt="" width="400" height="600" class="img_float"></a></p>
+    <p>&nbsp; </p>
+    <h2>&nbsp;</h2>
+  </blockquote>
+</blockquote>
+</body>
+</html>
