@@ -6,7 +6,7 @@
 <style>
 body {
     background-color: #b0d7b7;
-    background-image: url(https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MjItMDQ3LWtxOTJ3eDl5LmpwZw.jpg);
+    background-image: url("assets/Background.JPG");
     background-repeat: repeat;
 }
 body,td,th {
@@ -45,7 +45,7 @@ h1 {
 </style>
 </head>
 
-<body tracingsrc="assets/rm422-047.jpg" tracingopacity="13">
+<body tracingsrc="Assets/Background.jpg" tracingopacity="13">
 <h3><span class="Recipes"><a href="Recipes.html">Recipes</a></span> - <a href="Exercise.html">Exercise</a> - <a href="Contact Us.html">Contact Us</a> - <a href="index.html">Home</a></h3>
 <h4 id="entry-title254950" data-url="https://www.stylecraze.com/articles/no-equipment-workouts-you-can-do-at-home/">&nbsp;</h4>
 <h1 data-url="https://www.stylecraze.com/articles/no-equipment-workouts-you-can-do-at-home/">&nbsp;</h1>
@@ -54,7 +54,7 @@ h1 {
 <h3>&nbsp;</h3>
 <h2><span id="legslower-body-exercises">Legs/Lower Body Exercises</span></h2>
 <h3>1.Burpees</h3>
-<p> <img src="Burpees.jpg" width="703" height="478" alt=""/></p>
+<p> <img src="Assets/Bur.jpg" width="752" height="509" alt=""/></p>
 <p>&nbsp;</p>
 <p><strong>How To Do</strong></p>
 <ol>
@@ -75,7 +75,7 @@ h1 {
 <br>
 <p>&nbsp;</p>
 <h3>2. Squats</h3>
-<p><img src="Squads.jpg" width="770" height="541" alt=""/></p>
+<p><img src="assets/Squads.JPG" width="770" height="541" alt=""/></p>
 <p><strong>How To Do</strong></p>
 <ol>
   <li>Stand straight with your feet hip-width apart.</li>
@@ -88,7 +88,7 @@ h1 {
 <p>&nbsp;</p>
 <h3>3. Jump Squats</h3>
 <p>&nbsp;</p>
-<p><img src="Jumpsquads.jpg" width="770" height="517" alt=""/></p>
+<p><img src="assets/Jumpsquads.JPG" width="770" height="517" alt=""/></p>
 <p><strong>How To Do</strong></p>
 <ol>
   <li>Stand straight with your feet shoulder-width apart, chest out, shoulders relaxed, and abs engaged.</li>
@@ -98,7 +98,7 @@ h1 {
 </ol>
 <h3>&nbsp;</h3>
 <h3>4. Jump Lunges</h3>
-<p><img src="Jumplunge.jpg" width="688" height="484" alt=""/></p>
+<p><img src="Assets/jumplunge.jpg" width="793" height="770" alt=""/></p>
 <p>&nbsp;</p>
 <p><strong>How To Do</strong></p>
 <ol>
@@ -112,7 +112,7 @@ h1 {
 <h3>&nbsp;</h3>
 <h3>5. Side Lunges</h3>
 <p>&nbsp;</p>
-<p><img src="Portfolio\Assets\Sidelunge.jpg" width="508" height="478" alt=""/></p>
+<p><img src="Assets/sidelunge.jpg" width="562" height="561" alt=""/></p>
 <p><strong>How To Do</strong></p>
 <ol>
   <li>Stand straight with your feet shoulder-width apart, shoulders relaxed, and palms together.</li>
