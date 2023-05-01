@@ -21,10 +21,10 @@ h1,h2,h3,h4,h5,h6 {
     float: none;
 }
 }
-body {
-    background-color: #b0d7b7;
-    background-image: url(Background.jpg);
-    background-repeat: repeat;
+body {background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/21555/Melissani-cave-natural.jpg);
+  background-size:cover;
+  background-position:center center;
+  background-attachment:fixed;
 }
 a {
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
